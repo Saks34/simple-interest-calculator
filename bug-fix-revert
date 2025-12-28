@@ -1,5 +1,6 @@
-curl https://api.github.com/repos/YOUR_USERNAME/mcino-Introduction-to-Git-and-GitHub/pulls
+$ curl -i https://api.github.com/repos/Saks34/mcino-Introduction-to-Git-and-GitHub/pulls
 
-StatusCode        : 200
-StatusDescription : OK
-Content           : []
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+
+[]
