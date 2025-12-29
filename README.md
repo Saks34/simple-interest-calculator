@@ -5,7 +5,5 @@ This project is a simple Bash script to calculate simple interest based on:
 - Rate of Interest
 - Time Period
 
-Final Project for Introduction to Git and GitHub.
-typo fix
 typo fix
 Another typo fix
