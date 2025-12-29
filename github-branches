@@ -1,0 +1,4 @@
+$ git branch -vv
+  bug-fix-revert bda28db Resolve merge conflict in README.md
+  bug-fix-typo   7ad969f Another typo fix
+* main           bda28db [origin/main: ahead 6, behind 5] Resolve merge conflict in README.md

@@ -1,0 +1,13 @@
+$ git checkout main
+Switched to branch 'main'
+
+$ git merge bug-fix-typo
+Auto-merging README.md
+CONFLICT (content): Merge conflict in README.md
+Automatic merge failed; fix conflicts and then commit the result.
+
+$ git add README.md
+$ git commit -m "Resolve merge conflict in README.md"
+[main  bda28db] Resolve merge conflict in README.md
+ README.md | 2 +
+ 1 file changed, 2 insertions(+)
